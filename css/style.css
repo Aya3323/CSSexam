@@ -58,16 +58,16 @@ h2 {
 .card {
   position: relative;
   z-index: 20;
-  width:600px;
-  transform: translate(0px, 50px);
+  width:700px;
+  transform: translate(0px, 120px);
 }
 
 .box {
   z-index: 10;
-  width: 900px;
+  width: 1000px;
   background-color: blue;
   transform: translate(0px, -150px);
-  height:178px;
+  height:250px;
 }
 
 .about__content-ttl {
